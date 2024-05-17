@@ -10,3 +10,4 @@ function purchase(){
     errorParagraph.textContent = "Something went wrong, please try again"
 }
 
+// This is a JavaScript File..
