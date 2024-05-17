@@ -3,6 +3,9 @@ body {
     font-family: "Goudy Bookletter 1911", sans-serif;
 
     padding: 20px;
+    margin: 0;
+    text-align: center;
+    
     
 }
 img {
@@ -36,6 +39,9 @@ button {
     color: red;
     font-weight: 200;
 }
-/* This is a CSS File */
+/* This is a CSS File  */
+/* This is a comment */
+
+
 
 
